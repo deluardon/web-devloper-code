@@ -66,6 +66,7 @@ nav a{
 }
 .profaile-picutre{
     width: 500px;
+}
     
 .banner-tittle{
     font-size: 85px;
@@ -84,6 +85,29 @@ nav a{
 .about{
     padding: 130px;
     background: #FFF8F3;
-    border-radius: 10px;
+    border-radius: 10px; 
     margin: 130px 0;
 }
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.about-contener{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    
+  
+}
+.about-tag{
+    
+    text-align: center
+    
+}
+.section-two-tittle{
+    text-align: center;
+}
+.section-two-pra{
+    
+ }
