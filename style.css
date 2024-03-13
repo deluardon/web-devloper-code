@@ -1,0 +1,89 @@
+body{
+    
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 200px;
+}
+.site-titel{
+    
+}
+.rrr{
+    color: #FD6E0A;
+}
+.section-tittle{
+    color: #181818;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    
+
+}
+.section-discription{
+    color: #757575;
+    text-align: center;
+    font-size: 18px;
+}
+nav > ul{
+    display: flex;
+    align-items: center;
+    
+    
+
+
+}
+
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+.buttonprymare{
+    background-color: #FD6E0A;
+    border-radius: 5px;
+    border: 0px;
+    font-size: 20px;
+    color: white;
+    
+}
+.header{
+    background-color: #fff8f3;
+    background-image:url('images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+.banner{
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.profaile-picutre{
+    width: 500px;
+    
+.banner-tittle{
+    font-size: 85px;
+    font-weight: 700;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+.banner-griti{
+    font-size: 45px;
+    color: #474747;
+    margin-bottom: 0;
+}
+.banner-content{
+    max-width: 500px;
+}
+.about{
+    padding: 130px;
+    background: #FFF8F3;
+    border-radius: 10px;
+    margin: 130px 0;
+}
