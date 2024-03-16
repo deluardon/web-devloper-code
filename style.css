@@ -163,5 +163,22 @@ main section{
 }
 footer{
     display: flex;
+    gap: 100px
+    ;
     background-color: #fff8f3;
-    padding: 130px 130px ;
+    padding: 130px 130px ;}
+.footer-colum{
+    width: 50%;
+}
+.contact-from{ 
+    display: block;
+    margin-bottom: 20px;
+    padding: 18px 35px;
+    color:#757575;
+    border-radius: 5px;
+    /* background-color: #fff; */
+    border: 0;
+    /* width: 100%; */
+
+ 
+} 
