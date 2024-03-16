@@ -92,22 +92,16 @@ main{
     max-width: 1140px;
     margin: 0 auto;
 }
-
-.about-contener{
-    display: flex;
-    justify-content: space-around;
-    text-align: center;
-    
-  
-}
 .about-tag{
     
     text-align: center
     
 }
-.section-two-tittle{
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
     text-align: center;
 }
-.section-two-pra{
-    
- }
+
