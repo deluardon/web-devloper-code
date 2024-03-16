@@ -46,7 +46,7 @@ nav a{
 }
 .buttonprymare{
     background-color: #FD6E0A;
-    border-radius: 5px;
+    border-radius: 3px;
     border: 0px;
     font-size: 20px;
     color: white;
@@ -161,3 +161,7 @@ main section{
     margin-top: 50px;
     margin-bottom: 100px;
 }
+footer{
+    display: flex;
+    background-color: #fff8f3;
+    padding: 130px 130px ;
