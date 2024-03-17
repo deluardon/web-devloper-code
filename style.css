@@ -46,10 +46,12 @@ nav a{
 }
 .buttonprymare{
     background-color: #FD6E0A;
-    border-radius: 3px;
+    border-radius: 5px;
     border: 0px;
     font-size: 20px;
     color: white;
+    padding: 10px;
+    margin: 5px;
     
 }
 .header{
@@ -57,6 +59,8 @@ nav a{
     background-image:url('images/header_bg.png');
     background-repeat: no-repeat;
     background-position: bottom right;
+    /* background-position: bottom left; */
+    
 }
 .banner{
     padding: 30px 30px 0px 150px;
@@ -182,3 +186,13 @@ footer{
 
  
 } 
+#submit{
+    background-color: #FD6E0A;
+    color: #FFF8F3;
+    border-radius: 5px;
+    
+}
+#submit:hover{
+    cursor:pointer;
+    background-color: red;
+}
