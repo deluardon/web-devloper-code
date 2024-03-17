@@ -1,3 +1,10 @@
+.vidaloka-regular {
+    font-family: "Vidaloka", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
 body{
     
 }
@@ -20,6 +27,7 @@ nav{
     font-size: 30px;
     font-weight: 700;
     
+    
 
 }
 .section-discription{
@@ -39,6 +47,7 @@ nav > ul{
 nav li{
     list-style: none;
     margin-right: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 nav a{
     text-decoration: none;
@@ -57,9 +66,12 @@ nav a{
 .header{
     background-color: #fff8f3;
     background-image:url('images/header_bg.png');
+    /* background-image:url('/images/developer.png'); */
     background-repeat: no-repeat;
     background-position: bottom right;
-    /* background-position: bottom left; */
+    background-image: url('/images/developer.png');
+    background-position: top left;
+    /* margin: 38px; */
     
 }
 .banner{
